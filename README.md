@@ -1,10 +1,10 @@
-<div align="right">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Lone1106.Lone1106&left_color=black&right_color=darkred&left_text=People%20who%20got%20lost"  />
 </div>
 
 ###
 
-<img align="left" height="120" src="https://janrei.de/favicon.svg"  />
+<img align="right" height="120" src="https://janrei.de/favicon.svg"  />
 
 ###
 
