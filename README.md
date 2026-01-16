@@ -1,7 +1,3 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lone1106.Lone1106&left_color=black&right_color=darkred&left_text=People%20who%20got%20lost"  />
-</div>
-
 ###
 
 <h1 align="left">Hey, please try to not touch anything while you are here...</h1>
