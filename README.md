@@ -4,10 +4,6 @@
 
 ###
 
-<img align="right" height="120" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <h1 align="left">Hey, please try to not touch anything while you are here...</h1>
 
 ###
