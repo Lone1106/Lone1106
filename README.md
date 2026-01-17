@@ -1,8 +1,10 @@
-<h1 align="left">Hey, please try to not touch anything while you are here...</h1>
+<div align="right">
+  <img height="80" src="https://janrei.de/logo-icon-flicker.gif"  />
+</div>
 
 ###
 
-<img align="right" height="120" src="https://janrei.de/logo-icon-flicker.gif"  />
+<h1 align="left">Hey, please try to not touch anything while you are here...</h1>
 
 ###
 
