@@ -1,8 +1,8 @@
-<img align="right" height="120" src="https://janrei.de/logo-icon-flicker.gif"  />
+<h1 align="left">Hey, please try to not touch anything while you are here...</h1>
 
 ###
 
-<h1 align="left">Hey, please try to not touch anything while you are here...</h1>
+<img align="right" height="120" src="https://janrei.de/logo-icon-flicker.gif"  />
 
 ###
 
