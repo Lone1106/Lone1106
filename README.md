@@ -1,9 +1,3 @@
-<div align="right">
-  <img height="80" src="https://janrei.de/logo-icon-flicker.gif"  />
-</div>
-
-###
-
 <h1 align="left">Hey, please try to not touch anything while you are here...</h1>
 
 ###
@@ -24,6 +18,10 @@
 ###
 
 <p align="left">Hey, I’m Jan. Shocking, I know. But since you already made it this far, you might as well stay until the end. Or not, no pressure — I’m not your boss. I’m basically just a person who creates internet things.</p>
+
+###
+
+<img align="right" height="80" src="https://janrei.de/logo-icon-flicker.gif"  />
 
 ###
 
