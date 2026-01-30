@@ -73,18 +73,6 @@
 
 ###
 
-<h3 align="left">That's the stuff I'm listening to...if you can be bothered, and we both know you cannot.</h3>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31aixwzrzosghdmgyxz2z4urexey">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aixwzrzosghdmgyxz2z4urexey&count=4&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="right">
   <img height="80" src="https://janrei.de/logo-icon-flicker.gif"  />
 </div>
