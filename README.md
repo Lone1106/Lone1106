@@ -66,21 +66,3 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=astro" height="28" alt="astro logo"  />
 </div>
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<h3 align="left">That's the stuff I'm listening to...if you can be bothered, and we both know you cannot.</h3>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/jan.11.061">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jan.11.061&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
