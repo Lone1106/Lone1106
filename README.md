@@ -73,8 +73,14 @@
 
 ###
 
-<div align="right">
-  <img height="80" src="https://janrei.de/logo-icon-flicker.gif"  />
+<h3 align="left">That's the stuff I'm listening to...if you can be bothered, and we both know you cannot.</h3>
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/jan.11.061">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jan.11.061&count=3" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
